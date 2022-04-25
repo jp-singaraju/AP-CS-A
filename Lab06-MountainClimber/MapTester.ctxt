@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MapTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=map
+comment2.target=void\ testMinMax(MapIllustrator)
+comment2.text=output\ the\ min\ and\ max\ elevation\ values\ found\ in\ the\ map
+comment3.params=map
+comment3.target=void\ testDrawMap(MapIllustrator)
+comment3.text=test\ map\ drawing\ -\ should\ be\ the\ grayscale\ image\ shown\ in\ the\ lab
+comment4.params=map
+comment4.target=void\ testDrawPath(MapIllustrator)
+comment4.text=test\ the\ drawPath\ method,\ JUST\ for\ row\ 200
+comment5.params=map
+comment5.target=void\ testBestPath(MapIllustrator)
+comment5.text=test\ the\ getIndexOfLowest\ method,\ which\ finds\ the\ OVERALL\ best\ path\ /\ starting\ row
+numComments=6

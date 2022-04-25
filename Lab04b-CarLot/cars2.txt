@@ -1,0 +1,9 @@
+4
+Nissan Altima
+18 19 101000
+Toyota 4runner
+16 15 260000
+Chevrolet El Camino
+21 16 92000
+Ford Fusion Hybrid
+24 35 40000

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AddingGame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ user
+comment2.target=boolean\ addNums(int[],\ int)
+numComments=3

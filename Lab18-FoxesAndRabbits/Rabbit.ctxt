@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Rabbit
+comment1.params=field\ location
+comment1.target=Rabbit(Field,\ Location)
+comment1.text=\r\n\ Create\ a\ new\ rabbit.\ A\ rabbit\ is\ created\ with\ age\ zero\ (a\ new\ born).\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ what\ the\ rabbit\ does\ most\ of\ the\ time\ -\ it\ runs\ \r\n\ around.\ Sometimes\ it\ will\ breed\ or\ die\ of\ old\ age.\r\n
+comment3.params=
+comment3.target=void\ incrementAge()
+comment3.text=\r\n\ Increase\ the\ Rabbit's\ age.\r\n\ This\ could\ result\ in\ the\ rabbit's\ death.\r\n
+comment4.params=
+comment4.target=int\ breed()
+comment4.text=\r\n\ Generate\ a\ number\ representing\ the\ number\ of\ births,\ if\ it\ can\ breed.\r\n\ @return\ The\ number\ of\ births\ (may\ be\ zero).\r\n
+comment5.params=
+comment5.target=boolean\ canBreed()
+comment5.text=\r\n\ A\ rabbit\ can\ breed\ if\ it\ has\ reached\ breeding\ age.\r\n\ @return\ true\ if\ the\ rabbit\ can\ breed,\ false\ otherwise.\r\n
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ValidateForm
+comment1.params=
+comment1.target=ValidateForm()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment11.params=
+comment11.target=void\ run()
+comment2.params=str
+comment2.target=boolean\ isAllAlpha(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ isNumeric(java.lang.String)
+comment4.params=name
+comment4.target=java.lang.String\ checkName(java.lang.String)
+comment5.params=email
+comment5.target=java.lang.String\ checkEmail(java.lang.String)
+comment6.params=pw
+comment6.target=java.lang.String\ checkPW(java.lang.String)
+comment7.params=zip
+comment7.target=java.lang.String\ checkZip(java.lang.String)
+comment8.params=date
+comment8.target=java.lang.String\ checkBirth(java.lang.String)
+comment9.params=phone
+comment9.target=java.lang.String\ checkPhone(java.lang.String)
+numComments=12

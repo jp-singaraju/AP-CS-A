@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=name\ birthyear
+comment1.target=Animal(java.lang.String,\ int)
+comment2.params=animal
+comment2.target=void\ setFriend(Animal)
+comment3.params=toy
+comment3.target=void\ addToy(Toy)
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=java.util.ArrayList\ getToys()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

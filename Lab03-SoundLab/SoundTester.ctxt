@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SoundTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ adjustVolumeTest()
+comment3.params=
+comment3.target=void\ mixTest()
+comment3.text=this\ test\ will\ not\ be\ audible\ (sub-sonic\ frequencies\ used\ for\ better\ visuals)
+numComments=4

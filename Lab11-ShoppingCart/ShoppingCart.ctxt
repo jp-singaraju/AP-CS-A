@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ShoppingCart
+comment1.params=
+comment1.target=ShoppingCart()
+comment2.params=order
+comment2.target=void\ add(ItemOrder)
+comment3.params=isDiscount
+comment3.target=void\ setDiscount(boolean)
+comment4.params=
+comment4.target=double\ getTotal()
+numComments=5

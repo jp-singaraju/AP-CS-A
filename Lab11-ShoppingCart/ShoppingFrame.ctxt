@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShoppingFrame
+comment1.params=products
+comment1.target=ShoppingFrame(Catalog)
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeCheckBoxPanel()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=product\ p
+comment4.target=void\ addItem(Item,\ javax.swing.JPanel)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ focusLost(java.awt.event.FocusEvent)
+comment7.params=product\ quantity
+comment7.target=void\ updateItem(Item,\ javax.swing.JTextField)
+comment8.params=
+comment8.target=void\ updateTotal()
+numComments=9
